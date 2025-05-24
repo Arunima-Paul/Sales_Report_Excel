@@ -57,24 +57,23 @@ It includes net sales data for 2019, 2020 and 2021 along with the variance from 
 
 **Overall Performance:**
 
-In 2021 net sales was $598.88M, achieving -9.17% of the target.
+In 2021 net sales was $598.88M achieving -9.17% of the target.
 
 **Top Performers:**
-
-India: Net sales in 2021 were $161.26M with a target achievement of -5.92%.
-USA: Net sales in 2021 were $87.78M achieving -11.66% of the target.
-South Korea: Net sales in 2021 were $48.97M achieving -8.91% of the target.
+1. India: Net sales in 2021 were $161.26M with a target achievement of -5.92%.
+2. USA: Net sales in 2021 were $87.78M achieving -11.66% of the target.
+3. South Korea: Net sales in 2021 were $48.97M achieving -8.91% of the target.
 
 **Underperforming Markets:**
 
-Poland: Net sales in 2021 were $5.19M with the lowest target achievement of -18.13%.
-Canada: Net sales in 2021 were $35.06M achieving -14.45% of the target.
-Spain : Net sales in 2021 were $12.62M achieving -14.15% of the target.
+1. Poland: Net sales in 2021 were $5.19M with the lowest target achievement of -18.13%.
+2. Canada: Net sales in 2021 were $35.06M achieving -14.45% of the target.
+3. Spain : Net sales in 2021 were $12.62M achieving -14.15% of the target.
 
 **Moderate Performers:**
 
-United Kingdom - Net sales in 2021 were $34.15M achieving -8.72% of the target.
-France - Net sales in 2021 were $25.94M achieving -8.44% of the target.
+1. United Kingdom - Net sales in 2021 were $34.15M achieving -8.72% of the target.
+2. France - Net sales in 2021 were $25.94M achieving -8.44% of the target.
 
 **Regional Observations:**
 
@@ -82,8 +81,8 @@ Asian markets like India, China and Japan showed relatively better performance c
 
 **Recommendations:**
 
-1.Investigate the reasons behind underperformance in markets of Poland, Canada and Spain to identify challenges and opportunities for improvement.
-2.Focus on high-performing markets like India and USA to maintain growth and use the successful strategies in other regions.
-3.Develop strategies for European markets to improve sales performance and achieve closer alignment with targets.
+1. Investigate the reasons behind underperformance in markets of Poland, Canada and Spain to identify challenges and opportunities for improvement.
+2. Focus on high-performing markets like India and USA to maintain growth and use the successful strategies in other regions.
+3. Develop strategies for European markets to improve sales performance and achieve closer alignment with targets.
 
 Dataset obtained from Codebaiscs Bootcamp.
