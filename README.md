@@ -48,8 +48,7 @@ Currys (Dixons Carphone): Net sales in 2021 were $2M, with a growth rate of 246.
 
 **-------Market Performance vs Target Report Analysis------------**
 
-![market performace report](https://github.com/user-attachments/assets/bb031a05-9731-407e-bf0b-f12400808f7c)
-
+![market vs target](https://github.com/user-attachments/assets/6f4c8bda-21fb-4b22-a2ab-abcc6ad67dbc)
 
 Overview: This report analyzes the market performance of various countries against their 2021 sales targets. 
 It includes net sales data for 2019, 2020 and 2021 along with the variance from the 2021 target and the percentage of target achieved.
