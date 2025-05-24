@@ -87,4 +87,4 @@ Asian markets like India, China and Japan showed relatively better performance c
 
 --- End of Analysis---
 
-Dataset obtained from Codebaiscs Bootcamp.
+Dataset obtained from Codebasics Bootcamp.
