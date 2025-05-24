@@ -7,9 +7,12 @@ https://youtu.be/v26NfYzPhTU
 
 **Insights generated from the Customer Sales Report Analysis**
 
-Overview: The report provides an analysis of customer sales across three years: 2019, 2020, and 2021. 
+Overview: The report provides an analysis of customer sales across three years: 2019, 2020 and 2021. 
 It includes net sales figures for each year and the percentage growth from 2020 to 2021. 
 The data is segmented by customer names.
+
+![cust sales report](https://github.com/user-attachments/assets/5cc41692-fe42-47e5-ad6e-1e5a5c384d03)
+
 
 **Key Insights:**
 
@@ -37,11 +40,51 @@ Currys (Dixons Carphone): Net sales in 2021 were $2M, with a growth rate of 246.
 
 **Recommendations:**
 
-Focus on customers with high growth rates, for example Integration Stores and Chiptec, to understand their strategies and replicate success across other customers.
-Investigate customers with moderate growth, for example Leader, to identify potential areas for improvement.
-Continue monitoring top performers like Amazon, AtliQ Exclusive and AtliQ e Store to ensure sustained growth.
+1. Focus on customers with high growth rates for example Integration Stores and Chiptec, to understand their strategies and replicate success across other customers.
+2. Investigate customers with moderate growth for example Leader, to identify potential areas for improvement.
+3. Continue monitoring top performers like Amazon, AtliQ Exclusive and AtliQ e Store to ensure growth maintainance.
 
-**Conclusion:** The report highlights significant growth across most customers with a few standout performers driving substantial revenue increases.
-Strategic focus on high-growth customers and consistent performers can help sustain overall sales momentum.
+
+
+**-------Market Performance vs Target Report Analysis------------**
+
+![market performace report](https://github.com/user-attachments/assets/bb031a05-9731-407e-bf0b-f12400808f7c)
+
+
+Overview: This report analyzes the market performance of various countries against their 2021 sales targets. 
+It includes net sales data for 2019, 2020 and 2021 along with the variance from the 2021 target and the percentage of target achieved.
+
+**Key Insights:**
+
+**Overall Performance:**
+
+In 2021 net sales was $598.88M, achieving -9.17% of the target.
+
+**Top Performers:**
+
+India: Net sales in 2021 were $161.26M with a target achievement of -5.92%.
+USA: Net sales in 2021 were $87.78M achieving -11.66% of the target.
+South Korea: Net sales in 2021 were $48.97M achieving -8.91% of the target.
+
+**Underperforming Markets:**
+
+Poland: Net sales in 2021 were $5.19M with the lowest target achievement of -18.13%.
+Canada: Net sales in 2021 were $35.06M achieving -14.45% of the target.
+Spain : Net sales in 2021 were $12.62M achieving -14.15% of the target.
+
+**Moderate Performers:**
+
+United Kingdom - Net sales in 2021 were $34.15M achieving -8.72% of the target.
+France - Net sales in 2021 were $25.94M achieving -8.44% of the target.
+
+**Regional Observations:**
+
+Asian markets like India, China and Japan showed relatively better performance compared to European markets like Poland, Spain and Italy.
+
+**Recommendations:**
+
+1.Investigate the reasons behind underperformance in markets of Poland, Canada and Spain to identify challenges and opportunities for improvement.
+2.Focus on high-performing markets like India and USA to maintain growth and use the successful strategies in other regions.
+3.Develop strategies for European markets to improve sales performance and achieve closer alignment with targets.
 
 Dataset obtained from Codebaiscs Bootcamp.
