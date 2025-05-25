@@ -18,15 +18,21 @@ The data is segmented by customer names.
 
 **Top Performers:**
 
-Amazon : Net sales in 2021 reached $82M, showing a growth of 218.87% compared to 2020.
-AtliQ Exclusive : Net sales in 2021 were $61M, with a growth of 345.77%.
-AtliQ e Store : Net sales in 2021 were $53M, with a growth of 223.83%.
-Flipkart : Net sales in 2021 were $19M, with a growth of 231.03%.
+Amazon : Net sales in 2021 reached $82M showing a growth of 218.87% compared to 2020.
+
+AtliQ Exclusive : Net sales in 2021 were $61M with a growth of 345.77%.
+
+AtliQ e Store : Net sales in 2021 were $53M with a growth of 223.83%.
+
+Flipkart : Net sales in 2021 were $19M with a growth of 231.03%.
+
 
 **Highest Growth Rates:**
 
 Integration Stores : Achieved the highest growth rate of 887.19% from 2020 to 2021.
+
 Chiptec : Growth rate of 722.03%.
+
 Electricalsquipo Stores : Growth rate of 535.32%.
 
 **Consistent Growth:**
@@ -35,8 +41,9 @@ Many customers, such as Electricalslytical and Electricalsocity showed steady gr
 
 **Low Performers:**
 
-Leader : Despite net sales of $19M in 2021, the growth rate was relatively moderate at 314.81%.
-Currys (Dixons Carphone): Net sales in 2021 were $2M, with a growth rate of 246.94%.
+Leader : Despite net sales of $19M in 2021 the growth rate was relatively moderate at 314.81%.
+
+Currys (Dixons Carphone): Net sales in 2021 were $2M with a growth rate of 246.94%.
 
 **Recommendations:**
 
